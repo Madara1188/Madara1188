@@ -14,9 +14,9 @@
 
 [<img src="https://github.com/Madara1188/Madara1188/blob/master/resources/hr.gif"/>](https://github.com/Madara1188)
 
-<h1> <img src="https://te.legra.ph/file/7c59e386554f60f9d5ae6.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://te.legra.ph/file/7c59e386554f60f9d5ae6.jpg" width="60px">](https://tg://openmessage?user_id=5059737154) [<img src="https://te.legra.ph/file/7c59e386554f60f9d5ae6.jpg" width="60px">](https://github.com/Madara1188) 
+[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=5059737154) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/Madara1188) 
 
 
 
@@ -27,26 +27,19 @@
 ## Connect with Me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Madara1188)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Madara1188)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MADARA_BOT_WORLD)
 
 ## My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madara1188&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madara1188&layout=compact&theme=midnight-purple&hide=Css)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Madara118()Enter
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Madara1188)￼Enter
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <!---
 Madara1188/Madara1188 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.!
---->
-
-<!--
-**Madara1188/Madara1188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Madara1188/Madara1188 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
