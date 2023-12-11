@@ -4,7 +4,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/Madara1188/count.svg" />
 </p> 
 
-[<img src="https://te.legra.ph/file/7c59e386554f60f9d5ae6.jpg"/>](https://github.com/Madara1188)
+[<img src="https://graph.org/file/2d48c45c5c461f6413be8.jpg"/>](https://github.com/Madara1188)
 
 
 
