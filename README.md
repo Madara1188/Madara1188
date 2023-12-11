@@ -14,7 +14,7 @@
 
 [<img src="https://github.com/Madara1188/Madara1188/blob/master/resources/hr.gif"/>](https://github.com/Madara1188)
 
-<h1> <img src="([https://telegra.ph//file/4ced7e4a672638ac5c75e.jpg])" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="([https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg])" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=5059737154) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/Madara1188) 
 
